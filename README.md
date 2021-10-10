@@ -1,7 +1,8 @@
 # GitHub Fundamentals
 HKN GitHub Fundamentals 
 
-### Welcome Everyone in this workshop we are going to go over the basics of git hub and all of its features
+### Welcome Everyone! 
+### In this workshop we are going to go over the basics of GitHub and all of its core components
 
 This workshop is about…
 
