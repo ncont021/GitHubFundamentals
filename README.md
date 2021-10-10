@@ -10,4 +10,4 @@ This workshop is about…
 * Make, publish, and share content in GitHub
 * Integration with Text Editors
 
-![#2](https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg)
+![#2](https://img.itch.zone/aW1hZ2UyL2phbS8yNjQ2ODAvNzEwNTIxMC5naWY=/original/djg1gu.gif)
