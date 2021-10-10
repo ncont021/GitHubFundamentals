@@ -49,6 +49,36 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg) and ![Image](src)
+[Link](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg) and ![Image](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg)
 
 
+You can quote like this `##` or you can also quote like this 
+> new makigng 
+
+
+There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
+
+    if (isAwesome){
+      return true
+    }
+
+GitHub also supports something called code fencing, which allows for multiple lines without indentation:
+
+```
+if (isAwesome){
+  return true
+}
+```
+
+And if you'd like to use syntax highlighting, include the language:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+☕ 🌾
