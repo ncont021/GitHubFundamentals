@@ -45,9 +45,9 @@ Syntax highlighted code block
 
 ## More Styling 
 ```Markdown
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` ~~text~~
 ```
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` ~~text~~
 
 ## URLs and Images
 ```Markdown
