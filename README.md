@@ -16,6 +16,7 @@ This workshop is about…
 ## Git vs GitHub ⚔️
 ![#3](gitvshub.jpg)
 [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+[WorkFlow](https://guides.github.com/introduction/flow/)
 
 ## Print Hello, World! 👋
 ![#4](printhello.jpg)
