@@ -75,24 +75,31 @@ If you've got a longer block of code, you can indent with four spaces:
     }
 
 GitHub also supports something called code fencing, which allows for multiple lines without indentation:
-```Markdown
+
 ```
 if (isAwesome){
   return true
 }
 ```
-```
+
 
 And if you'd like to use syntax highlighting, include the language:
-```Markdown
+
 ```javascript
 if (isAwesome){
   return true
 }
 ```
+## Listing
+```Markdown
+- [x] This is a complete item
+- [ ] This is an incomplete item
 ```
-
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
-☕ 🌾
+## Emojis
+```Markdown
+:coffe: :bell: :kissing_heart:
+```
+:coffee: :bell: :kissing_heart:
