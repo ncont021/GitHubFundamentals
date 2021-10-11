@@ -6,36 +6,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a ~~lightweight~~ and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a ~~heavyweight~~ lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## Titling 
 ```markdown
-Syntax ~~highlighted~~ code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-    - Or like this
-
-1. Numbered
-2. List
-
-* Start a line with a star
-* Profit!
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+```
+# Header 1
+## Header 2
+### Header 3
 
+### 
+
+## Listing
+```markdown
+- Bulleted
+- List
+    - Or like this
+
+1. Numbered
+2. List
+
+* Start a line with a star
+* Profit!
+```
 - Bulleted
 - List
     - Or like this
@@ -46,9 +44,16 @@ Syntax highlighted code block
 * Start a line with a star
 * Profit!
 
-
+## More Styling 
+```Markdown
+**Bold** and _Italic_ and `Code` text
+```
 **Bold** and _Italic_ and `Code` text
 
+## URLs and Images
+```Markdown
+[Link](url) and ![Image](src)
+```
 [Link](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg) and ![Image](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg)
 
 
