@@ -81,7 +81,6 @@ if (isAwesome){
 }
 ```
 
-
 And if you'd like to use syntax highlighting, include the language:
 
 ```javascript
@@ -99,6 +98,6 @@ if (isAwesome){
 
 ## Emojis
 ```Markdown
-:coffe: :bell: :kissing_heart:
+:coffe: :bell: :kissing_heart: :rice:
 ```
-:coffee: :bell: :kissing_heart:
+:coffee: :bell: :kissing_heart: :rice:
