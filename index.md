@@ -51,7 +51,7 @@ Syntax highlighted code block
 
 ## URLs and Images
 ```Markdown
-[Link](url) and ![Image](src)
+[bugousdata](url) and ![boatgithub](src)
 ```
 [Link](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg) and ![Image](https://github.githubassets.com/images/modules/profile/profile-first-pr-dark.svg)
 
